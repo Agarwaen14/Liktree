@@ -49,5 +49,5 @@ body {
   
   a:hover {
     background-color: #ddd; /* Cambia el color de fondo al pasar el ratón */
-    transform: scale(1.05); /* Aumenta el tamaño un 5% */
+    transform: scale(1.10); /* Aumenta el tamaño un 10% */
   }
